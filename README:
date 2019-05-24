@@ -1,0 +1,6 @@
+README:
+Steps to execute:
+1)Run csv2arr program to convert given image to csv format.
+2)Compile and run ser1.c.
+3)Two output files, SentMat and ReceivedMat are created.
+4)Use csv2image program to convert the obtained csv file to an image. 
